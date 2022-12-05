@@ -13,12 +13,12 @@ Hence, I would like to create react website from scratch to apply my coding and 
 ## Objective 
 - To apply design thinking in portfolio design 
 - To apply web development best practices to code portfolio website from scratch
-- To deploy web development online on Netlify 
+- To deploy web development online on Vercel 
 
 
 ## Project Timeline 
 
-- Weekend (13 Oct - 30 Oct 2022)
+- Every weekend till EOY 2022 🥲 (Postponed due to busy with work)
 
 ## Design 
 
@@ -33,28 +33,25 @@ Hence, I would like to create react website from scratch to apply my coding and 
 [Full Design on Figma](https://www.figma.com/file/Pz6Wa20fG6PErSRWqTYeLk/Demo-(Portfolio))
 
 
-## Code 
+## Task Trackers
+- Home page ✅
+- About section ❎ 
+- Skills section ❎
+- Portfolio section ❎
+- Contact section ❎
 
-Ongoing 
 
+## Issue Trackers 
+- Adjust profile image to align with about me section ❎
 
 
 ## Tools 
-- Figma
-- React
-- HTML, CSS, Javascript 
-- Netlify
 
+- Build, Test, Deployment: [Vercel](https://vercel.com/dashboard)
+- Monitor: [Checkly](https://www.checklyhq.com/)
 
+![CI/CD Pipleine](https://i.postimg.cc/j22cxrQ0/CI-CD-pipeline.png)
 
-## Future Enhancements 
-
-TBC
-
-
-## Resources
-
-TBC
 
 ## Author 
 
