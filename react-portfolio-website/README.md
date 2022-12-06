@@ -52,6 +52,22 @@ Hence, I would like to create react website from scratch to apply my coding and 
 
 ![CI/CD Pipleine](https://i.postimg.cc/j22cxrQ0/CI-CD-pipeline.png)
 
+## Sample Workflow 
+
+- Modify Code on VsCode 
+- Push commit to Github 
+- Deployment on Vercel (Integrate with Checkly & Github)
+![Vercel](https://i.postimg.cc/59mRn7D1/Screenshot-2022-12-06-at-8-37-14-AM.png)
+
+- Monitor using Checkly 
+![Home](https://i.postimg.cc/5y9phJDJ/Screenshot-2022-12-06-at-8-36-04-AM.png)
+
+![Events](https://i.postimg.cc/c1TFQK8L/Screenshot-2022-12-06-at-8-36-16-AM.png)
+
+![Alerts](https://i.postimg.cc/NF07N4rf/Screenshot-2022-12-06-at-8-36-25-AM.png)
+
+- Notified on deployment status through Gmail 
+![Gmail](https://i.postimg.cc/vBFNSpQ8/Screenshot-2022-12-06-at-8-37-55-AM.png)
 
 ## Author 
 
